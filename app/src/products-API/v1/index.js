@@ -158,7 +158,7 @@ module.exports = (app, BASE_PATH, products, md_upload) => {
         
         var file_name = file_split[2];
        
-        var extension_split = file_name.split('/.');
+        var extension_split = file_name.split('\.');
         var file_ext = extension_split[1];
         
 
