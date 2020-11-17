@@ -22,7 +22,7 @@ const BASE_PATH = "/api";
 // middlewares
 app.use(bodyParser.json());
 app.use(cors());
-var md_upload = multiparty({ uploadDir: "./upload/products" });
+var md_upload = multiparty({ uploadDir: "../upload/products" });
 
 // database
 const MongoClient = require('mongodb').MongoClient;
