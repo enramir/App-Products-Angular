@@ -22,12 +22,12 @@ const BASE_PATH = "/api";
 // middlewares
 app.use(bodyParser.json());
 app.use(cors());
-var md_upload = multiparty({ uploadDir: "../upload/products" });
+var md_upload = multiparty({ uploadDir: "./upload/products" });
 
 // database
 const MongoClient = require('mongodb').MongoClient;
 
-const uri = process.env.MONGODB_URI;
+const uri = 'mongodb+srv://enramir:3n6mZnmr6L3Lcvz@tfg.k4qm1.mongodb.net/tfg?retryWrites=true&w=majority';
 
 const client = new MongoClient(uri, { 
     useNewUrlParser: true,
