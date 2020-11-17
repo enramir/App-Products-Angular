@@ -12,9 +12,9 @@
 
 -First we write `$ heroku login`
 
--Then we write `$ heroku create app-angular-tfg`
+-Then we write `$ heroku create app-products-angular`
 
--And we type the following to associate git with Heroku `$ heroku  git: clone -a app-angular-tfg`
+-And we type the following to associate git with Heroku `$ heroku  git: clone -a app-products-angular`
 
 -We add the changes `$ git add .`
 
@@ -25,7 +25,7 @@ deployment app angular"`
 
 ## Application URL
 
-- <https://app-angular-tfg.herokuapp.com/>
+- <https://app-products-angular.herokuapp.com/>
 
 ## API documentation
 
