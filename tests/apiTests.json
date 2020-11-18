@@ -28,7 +28,7 @@
 				"url": {
 					"raw": "https://app-products-angular.herokuapp.com/api/v1/products",
 					"host": [
-						"https://app-products-angular.herokuapp.com/"
+						"https://app-products-angular.herokuapp.com"
 					],
 					"path": [
 						"api",
@@ -65,7 +65,7 @@
 				"url": {
 					"raw": "https://app-products-angular.herokuapp.com/api/v1/products?limit=1",
 					"host": [
-						"https://app-products-angular.herokuapp.com/"
+						"https://app-products-angular.herokuapp.com"
 					],
 					"path": [
 						"api",
@@ -111,7 +111,7 @@
 				"url": {
 					"raw": "https://app-products-angular.herokuapp.com/api/v1/products?limit=5&offset=0",
 					"host": [
-						"https://app-products-angular.herokuapp.com/"
+						"https://app-products-angular.herokuapp.com"
 					],
 					"path": [
 						"api",
@@ -171,7 +171,7 @@
 				"url": {
 					"raw": "https://app-products-angular.herokuapp.com/api/v1/products/6358f5a0-2730-11eb-8e3b-4941c7614c39",
 					"host": [
-						"https://app-products-angular.herokuapp.com/"
+						"https://app-products-angular.herokuapp.com"
 					],
 					"path": [
 						"api",
@@ -215,7 +215,7 @@
 				"url": {
 					"raw": "https://app-products-angular.herokuapp.com/api/v1/products/6358f5a0-2730-11eb-8e3b-4941c7614c39",
 					"host": [
-						"https://app-products-angular.herokuapp.com/"
+						"https://app-products-angular.herokuapp.com"
 					],
 					"path": [
 						"api",
@@ -259,7 +259,7 @@
 				"url": {
 					"raw": "https://app-products-angular.herokuapp.com/api/v1/products/6358f5a0-2730-11eb-8e3b-4941c7614c39 ",
 					"host": [
-						"https://app-products-angular.herokuapp.com/"
+						"https://app-products-angular.herokuapp.com"
 					],
 					"path": [
 						"api",
@@ -309,7 +309,7 @@
 				"url": {
 					"raw": "https://app-products-angular.herokuapp.com/api/v1/products",
 					"host": [
-						"https://app-products-angular.herokuapp.com/"
+						"https://app-products-angular.herokuapp.com"
 					],
 					"path": [
 						"api",
@@ -352,7 +352,7 @@
 				"url": {
 					"raw": "https://app-products-angular.herokuapp.com/api/v1/products",
 					"host": [
-						"https://app-products-angular.herokuapp.com/"
+						"https://app-products-angular.herokuapp.com"
 					],
 					"path": [
 						"api",
@@ -395,7 +395,7 @@
 				"url": {
 					"raw": "https://app-products-angular.herokuapp.com/api/v1/products",
 					"host": [
-						"https://app-products-angular.herokuapp.com/"
+						"https://app-products-angular.herokuapp.com"
 					],
 					"path": [
 						"api",
@@ -432,7 +432,7 @@
 				"url": {
 					"raw": "https://app-products-angular.herokuapp.com/api/v1/products/bbff03c0-29ba-11eb-b82c-819f0dd4b5a4",
 					"host": [
-						"https://app-products-angular.herokuapp.com/"
+						"https://app-products-angular.herokuapp.com"
 					],
 					"path": [
 						"api",
@@ -470,7 +470,7 @@
 				"url": {
 					"raw": "https://app-products-angular.herokuapp.com/api/v1/products",
 					"host": [
-						"https://app-products-angular.herokuapp.com/"
+						"https://app-products-angular.herokuapp.com"
 					],
 					"path": [
 						"api",
@@ -504,7 +504,7 @@
 				"url": {
 					"raw": "https://app-products-angular.herokuapp.com/api/v1/products/bbff03c0-29ba-11eb-b82c-819f0dd4b5a4",
 					"host": [
-						"https://app-products-angular.herokuapp.com/"
+						"https://app-products-angular.herokuapp.com"
 					],
 					"path": [
 						"api",
