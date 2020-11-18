@@ -1,4 +1,4 @@
-# AngularApp of my TFG in production deployed in Heroku [![Build Status](https://travis-ci.org/enramir/App-Angular-TFG.svg?branch=master)](https://travis-ci.org/enramir/App-Angular-TFG)
+# AngularApp of my TFG in production deployed in Heroku [![Build Status](https://travis-ci.org/enramir/App-Products-Angular.svg?branch=master)](https://travis-ci.org/enramir/App-Products-Angular)
 
 ## Instructions of deploy
 
